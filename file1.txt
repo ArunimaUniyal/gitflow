@@ -1,4 +1,4 @@
-
-
-
-[A[A[A[B[B[B[A[A[A[B[B[Bthis is feature2 branch
+this is the feature branch.
+it is the initial level of development
+the most basic changes happen here
+this is feature2 branch
